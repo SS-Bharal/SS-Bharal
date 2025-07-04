@@ -40,7 +40,7 @@
 
 ### 🚀 Projects
 
-- **[Veggie Stoker](https://github.com/sahilbharal)**  
+- **[Veggie Stoker]()**  
 MERN-based grocery platform with real-time inventory and order tracking.
 
 - **Findd ERP Automation**  
