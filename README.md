@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bharal</h1>
-<h3 align="center">Full Stack Developer | MERN | Python | Blockchain Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN | Python </h3>
 
 <p align="center">
   <a href="https://sahilbharal.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -13,9 +13,8 @@
 
 - 🧠 I’m a Full Stack Developer with hands-on experience in **React.js, Node.js, MongoDB, Python, and DSA**.
 - 🚀 I recently built **Veggie Stoker**, a MERN-based real-time inventory & order platform for vegetable delivery.
-- 💡 I’ve also worked on an **NFT Marketplace on the Polygon blockchain**, OCR tools, and ERP systems.
+- 💡 I’ve also worked on an **FINDD ERP System, NFT Marketplace and OCR Technology**..
 - 🎯 Passionate about building scalable web apps, problem-solving, and exploring emerging tech.
-- 🧾 Certified by CodeChef (Global Round) and PCAP Python Institute.
 
 ---
 
@@ -39,18 +38,6 @@
 
 ---
 
-### 💼 Experience
-
-- **Junior Software Engineer Consultant**  
-_Ariel Software Solutions, Apr 2024 – Oct 2024_  
-    - Built OCR and automation tools for ERP, improving processing speed by 40%.
-
-- **Graduate Engineer Trainee**  
-_Yamaha Motor Solutions, Jul 2023 – Feb 2024_  
-    - Developed an NFT marketplace backend for over 1,000 NFTs/SFTs on Polygon.
-
----
-
 ### 🚀 Projects
 
 - **[Veggie Stoker](https://github.com/sahilbharal)**  
@@ -71,19 +58,6 @@ Polygon blockchain-based NFT trading system.
 
 - [CodeChef Global Round](https://www.codechef.com/certificates/public/9913dd3)
 - [PCAP – Python Institute](https://www.credly.com/badges/b3f7f8e8-bf86-4e5e-9a04-30297a880f09)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilbharal&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahilbharal&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbharal&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
