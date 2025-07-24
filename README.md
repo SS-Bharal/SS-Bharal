@@ -65,7 +65,7 @@ Polygon blockchain-based NFT trading system.
 Feel free to connect for collaborations, opportunities, or tech discussions.
 
 📧 Email: sahilbharal0001@gmail.com  
-🌐 Website: [sahilbharal.website](https://sahilbharal.website)
+🌐 Website: [sahilbharal.live](https://sahilbharal.live)
 
 ---
 
