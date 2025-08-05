@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN | Python </h3>
 
 <p align="center">
-  <a href="https://sahilbharal.live/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.sahilbharal.live" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sahil-bharal-8a739b158/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sahilbharal0001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
